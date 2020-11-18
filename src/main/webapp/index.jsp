@@ -11,7 +11,7 @@
     <title>首页</title>
 </head>
 <body>
-<h1>hello，word</h1>
+<h1>trust yourself,everything will be ok</h1>
 <a href="userController/findAll">查询所有用户信息</a>
 </body>
 </html>
