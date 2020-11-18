@@ -7,92 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bba9cfce-b326-4743-ac5e-702a59251e65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ssmTest_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/classes/SpringMVC.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/classes/com/ssmTest/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/classes/com/ssmTest/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/classes/com/ssmTest/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/classes/com/ssmTest/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/classes/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/ECharts-3.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/activation-1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/c3p0-0.9.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/commons-beanutils-1.8.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/commons-codec-1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/commons-digester-2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/commons-jexl-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/fastjson-1.2.62.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/gson-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/javaee-api-8.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/javax.mail-1.6.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/jxls-core-1.0.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/mchange-commons-java-0.2.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/mybatis-3.5.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/mybatis-spring-2.0.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.18.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/poi-3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/poi-ooxml-3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/poi-ooxml-schemas-3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/slf4j-api-1.7.18.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/slf4j-log4j12-1.7.18.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/spring-aop-5.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/spring-beans-5.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/spring-context-5.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/spring-core-5.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/spring-expression-5.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/spring-jcl-5.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/spring-jdbc-5.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/spring-orm-5.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/spring-test-5.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/spring-tx-5.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/spring-web-5.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/spring-webmvc-5.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/stax-api-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/xml-apis-1.0.b2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/lib/xmlbeans-2.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/pages/userList.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmTest_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssmTest/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssmTest/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssmTest/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssmTest/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/SpringMVC.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/userList.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssmTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SpringMVC.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ssmTest/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ssmTest/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ssmTest/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ssmTest/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -110,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="60" column="8" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+            <state relative-caret-position="243">
+              <caret line="129" column="20" lean-forward="true" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -170,6 +85,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="2175dac3-a1c0-46f1-a912-9d10aafdae10" />
@@ -505,12 +423,20 @@
       <option name="presentableId" value="Default" />
       <updated>1605684516354</updated>
       <workItem from="1605684526950" duration="12303000" />
-      <workItem from="1605700250842" duration="4414000" />
+      <workItem from="1605700250842" duration="5495000" />
     </task>
+    <task id="LOCAL-00001" summary="git提交测试">
+      <created>1605704907425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605704907425</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16717000" />
+    <option name="totallyTimeSpent" value="17798000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -522,9 +448,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="-8" width="698" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.47962382" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23146747" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -534,7 +461,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18196721" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18196721" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -544,7 +471,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32786885" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
@@ -564,6 +491,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git提交测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="git提交测试" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ssmTest/entity/User.java">
@@ -685,8 +616,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="60" column="8" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+        <state relative-caret-position="243">
+          <caret line="129" column="20" lean-forward="true" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="20" />
         </state>
       </provider>
     </entry>
